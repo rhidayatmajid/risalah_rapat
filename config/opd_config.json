@@ -1,0 +1,22 @@
+{
+    "ripu.acehjayakab.go.id": {
+        "name": "RIPU (Risalah Rapat MPU)",
+        "logo": "assets/images/logo_mpu.png",
+        "background_image": "assets/images/bg_mpu.jpg"
+    },
+    "rima.acehjayakab.go.id": {
+        "name": "RIPU (Risalah Rapat MAA)",
+        "logo": "assets/images/logo_maa.png",
+        "background_image": "assets/images/bg_maa.jpg"
+    },
+    "risu.acehjayakab.go.id": {
+        "name": "RISA (Risalah Rapat Dinas Syariat Islam)",
+        "logo": "assets/images/logo_dsi.png",
+        "background_image": "assets/images/bg_dsi.jpg"
+    },
+    "rimba.acehjayakab.go.id": {
+        "name": "RIMBA (Risalah Rapat Baitul Mal)",
+        "logo": "assets/images/logo_baitul_mal.png",
+        "background_image": "assets/images/bg_baitul_mal.jpg"
+    }
+}
